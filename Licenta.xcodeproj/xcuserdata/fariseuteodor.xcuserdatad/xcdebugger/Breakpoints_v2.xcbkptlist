@@ -1,0 +1,1039 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E8BBEDC6-1F02-44C8-84AA-7EFD2F2E1CC5"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F7861D5E-9D9C-4515-A5CF-09DC89D10010"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Licenta/FilterTypePicker.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "init(_:deselectTo:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5E09B734-9B44-49B2-90CD-82A52CD918B5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Licenta/Model/Filters/FilterGroup.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "appliableFilters"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "647C2386-6148-4445-985D-CDE8D724968F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Licenta/Model/Filters/FilterGroup.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "appliableFilters"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "334B22A3-3747-4FDD-911D-D85047FB3963"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Licenta/Model/Filters/FilterGroup.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "appliableFilters"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DF69C88C-1954-409E-B992-9AAADB4774F0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Licenta/Model/HistoryManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "undo()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F2F44A5-328F-40E7-B23E-BD8B0AABFD4D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Licenta/Model/HistoryManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "undo()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F6570B9E-0A41-4532-8E8E-CB645D60CDCD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Licenta/View/Utility/ZoomRectangle.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "init(group:image:rect:offset:scale:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F6570B9E-0A41-4532-8E8E-CB645D60CDCD - b7cce9c6907d9af9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Licenta.ZoomRectangle.init(group: SwiftUI.Binding&lt;Licenta.AffineGroup&gt;, rect: __C.CGSize) -&gt; Licenta.ZoomRectangle"
+                  moduleName = "Licenta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fariseuteodor/Documents/facultate/Licenta/Licenta/View/Utility/ZoomRectangle.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "204">
+               </Location>
+               <Location
+                  uuid = "F6570B9E-0A41-4532-8E8E-CB645D60CDCD - 4fc71a5ee5097417"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Licenta.ZoomRectangle.init(group: SwiftUI.Binding&lt;Licenta.AffineGroup&gt;, rect: __C.CGSize, scale: Swift.Double) -&gt; Licenta.ZoomRectangle"
+                  moduleName = "Licenta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fariseuteodor/Documents/facultate/Licenta/Licenta/View/Utility/ZoomRectangle.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "220">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C8574A3A-685D-4D95-B4C7-5EE5A6F9D414"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Licenta/Model/Filters/FilterGroups/VisionModelGroup.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "bgImage"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "C8574A3A-685D-4D95-B4C7-5EE5A6F9D414 - c12bbf46c4b231ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Licenta.VisionModelGroup.bgImage.didset : Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "Licenta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fariseuteodor/Documents/facultate/Licenta/Licenta/Model/Filters/FilterGroups/VisionModelGroup.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "C8574A3A-685D-4D95-B4C7-5EE5A6F9D414 - 63649d37ac469688"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Licenta.PredictionMaskFilter) -&gt; () in Licenta.VisionModelGroup.bgImage.didset : Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "Licenta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fariseuteodor/Documents/facultate/Licenta/Licenta/Model/Filters/FilterGroups/VisionModelGroup.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "42C5D63B-8324-4924-B86B-331EC56EEACE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Licenta/Model/Filters/FilterGroups/VisionModelGroup.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "inverted"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "42C5D63B-8324-4924-B86B-331EC56EEACE - 56baf8ad428b7043"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Licenta.VisionModelGroup.inverted.didset : Swift.Bool"
+                  moduleName = "Licenta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fariseuteodor/Documents/facultate/Licenta/Licenta/Model/Filters/FilterGroups/VisionModelGroup.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "42C5D63B-8324-4924-B86B-331EC56EEACE - 4757662994c72560"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Licenta.PredictionMaskFilter) -&gt; () in Licenta.VisionModelGroup.inverted.didset : Swift.Bool"
+                  moduleName = "Licenta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fariseuteodor/Documents/facultate/Licenta/Licenta/Model/Filters/FilterGroups/VisionModelGroup.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D4959DE2-CF1B-4FBA-83E5-D10FE16335CE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Licenta/View/FilterViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "filtergroups"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "50BF327A-DED3-4D71-A4A4-D74327A85DAD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Licenta/View/FilterViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "baseImage"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E1341589-2FAB-4C51-B81A-CE544F040DBF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Licenta/View/FilterViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "filtergroups"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "E1341589-2FAB-4C51-B81A-CE544F040DBF - 5e73cd5787b272b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Licenta.FilterViewModel.filtergroups.didset : Swift.Dictionary&lt;Licenta.FilterCategory, Licenta.AnyFilter&gt;"
+                  moduleName = "Licenta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fariseuteodor/Documents/facultate/Licenta/Licenta/View/FilterViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "E1341589-2FAB-4C51-B81A-CE544F040DBF - 316ff4370f0cc3af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((key: Licenta.FilterCategory, value: Licenta.AnyFilter), (key: Licenta.FilterCategory, value: Licenta.AnyFilter)) -&gt; Swift.Bool in Licenta.FilterViewModel.filtergroups.didset : Swift.Dictionary&lt;Licenta.FilterCategory, Licenta.AnyFilter&gt;"
+                  moduleName = "Licenta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fariseuteodor/Documents/facultate/Licenta/Licenta/View/FilterViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "48BBC25C-E187-40E6-8AE9-C6726028B3B1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Licenta/View/FilterViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "baseImage"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0401E3D5-9D99-4811-BD7A-E30C34C8EFF6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Licenta/View/Utility/ZoomRectangle.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "0401E3D5-9D99-4811-BD7A-E30C34C8EFF6 - 74b6376adf0adab8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (SwiftUI.DragGesture.Value) -&gt; () in Licenta.ScalingEdge.body.getter : some"
+                  moduleName = "Licenta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fariseuteodor/Documents/facultate/Licenta/Licenta/View/Utility/ZoomRectangle.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "440">
+               </Location>
+               <Location
+                  uuid = "0401E3D5-9D99-4811-BD7A-E30C34C8EFF6 - 74b6376adf0adab8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (SwiftUI.DragGesture.Value) -&gt; () in Licenta.ScalingEdge.body.getter : some"
+                  moduleName = "Licenta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fariseuteodor/Documents/facultate/Licenta/Licenta/View/Utility/ZoomRectangle.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "212">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C4609205-C24C-4661-8AB3-512015EC770B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Licenta/View/Utility/ZoomRectangle.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "C4609205-C24C-4661-8AB3-512015EC770B - 74b6376adf0ada5f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (SwiftUI.DragGesture.Value) -&gt; () in Licenta.ScalingEdge.body.getter : some"
+                  moduleName = "Licenta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fariseuteodor/Documents/facultate/Licenta/Licenta/View/Utility/ZoomRectangle.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "576">
+               </Location>
+               <Location
+                  uuid = "C4609205-C24C-4661-8AB3-512015EC770B - 74b6376adf0ada7e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (SwiftUI.DragGesture.Value) -&gt; () in Licenta.ScalingEdge.body.getter : some"
+                  moduleName = "Licenta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fariseuteodor/Documents/facultate/Licenta/Licenta/View/Utility/ZoomRectangle.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "576">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FE09C0B3-5C2A-4C27-A26A-4951C6542635"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Licenta/View/Utility/ZoomRectangle.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "FE09C0B3-5C2A-4C27-A26A-4951C6542635 - 74b6376adf0ada7e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (SwiftUI.DragGesture.Value) -&gt; () in Licenta.ScalingEdge.body.getter : some"
+                  moduleName = "Licenta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fariseuteodor/Documents/facultate/Licenta/Licenta/View/Utility/ZoomRectangle.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "1024">
+               </Location>
+               <Location
+                  uuid = "FE09C0B3-5C2A-4C27-A26A-4951C6542635 - 74b6376adf0ada7e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (SwiftUI.DragGesture.Value) -&gt; () in Licenta.ScalingEdge.body.getter : some"
+                  moduleName = "Licenta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fariseuteodor/Documents/facultate/Licenta/Licenta/View/Utility/ZoomRectangle.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "576">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7348FC66-6F34-4E9E-8A41-0A665815549B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Licenta/Model/MemoryCalculator.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "-getAvailableMem:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "18312194-21FD-47AA-B8DD-41BF17A0C4F9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Licenta/ViewModel/FilterViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "139"
+            endingLineNumber = "139"
+            landmarkName = "makePreview()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "18312194-21FD-47AA-B8DD-41BF17A0C4F9 - 1d23dd4fc3337b0d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Licenta.FilterViewModel.makePreview(for: Swift.Optional&lt;__C.CIImage&gt;) -&gt; Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "Licenta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fariseuteodor/Documents/facultate/Licenta/Licenta/ViewModel/FilterViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "18312194-21FD-47AA-B8DD-41BF17A0C4F9 - d0f84d252f8baa3d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Licenta.FilterGroup) -&gt; Swift.Array&lt;Licenta.Filter&gt; in Licenta.FilterViewModel.makePreview(for: Swift.Optional&lt;__C.CIImage&gt;) -&gt; Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "Licenta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fariseuteodor/Documents/facultate/Licenta/Licenta/ViewModel/FilterViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BC2D1DD6-285F-4CD5-9E8A-EAA3932109CD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Licenta/View/EditedImageView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "BC2D1DD6-285F-4CD5-9E8A-EAA3932109CD - e7d086e5b7a260bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (__C.CIVector, __C.CIVector) -&gt; () in closure #1 (SwiftUI.GeometryProxy) -&gt; SwiftUI.TupleView&lt;(SwiftUI.ModifiedContent&lt;&lt;&lt;opaque return type of SwiftUI.View.clipShape&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Shape&gt;(_: &#x3c4;_1_0, style: SwiftUI.FillStyle) -&gt; some&gt;&gt;.0, Licenta.ImageModifier&gt;, Swift.Optional&lt;SwiftUI.TupleView&lt;(Licenta.DraggablePoint, Licenta.DraggablePoint)&gt;&gt;)&gt; in closure #2 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in Licenta.EditSpaceView.body.getter : some"
+                  moduleName = "Licenta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fariseuteodor/Documents/facultate/Licenta/Licenta/View/EditedImageView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "BC2D1DD6-285F-4CD5-9E8A-EAA3932109CD - 6f5b03b67f734702"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Licenta.EditSpaceView.body.getter : some"
+                  moduleName = "Licenta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fariseuteodor/Documents/facultate/Licenta/Licenta/View/EditedImageView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "2880">
+               </Location>
+               <Location
+                  uuid = "BC2D1DD6-285F-4CD5-9E8A-EAA3932109CD - 14bad766c6b5391f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (SwiftUI.GeometryProxy) -&gt; SwiftUI.ModifiedContent&lt;&lt;&lt;opaque return type of SwiftUI.View.clipShape&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Shape&gt;(_: &#x3c4;_1_0, style: SwiftUI.FillStyle) -&gt; some&gt;&gt;.0, Licenta.ImageModifier&gt; in Licenta.EditSpaceView.body.getter : some"
+                  moduleName = "Licenta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fariseuteodor/Documents/facultate/Licenta/Licenta/View/EditedImageView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "292">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6E6F89D9-FD48-42AC-B3CF-A29DE7C3CD57"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Licenta/Model/Vision/CGImage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "200"
+            endingLineNumber = "200"
+            landmarkName = "previewMap()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "78A49989-27A6-4771-A1AC-C3FC842E50BE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Licenta/ViewModel/FilterGroups/VisionModelGroup.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "142"
+            endingLineNumber = "142"
+            landmarkName = "updateMasks()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "10D613BB-5D13-449F-A0E4-E47B1670A8B1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Licenta/View/Screens/Home/Login/RegisterView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "10D613BB-5D13-449F-A0E4-E47B1670A8B1 - fa86b9b7d8e44c76"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #4 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(Licenta.ValidatedField, Licenta.ValidatedField, Licenta.ValidatedField, SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.lineLimit(Swift.Optional&lt;Swift.Int&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Button&lt;SwiftUI.Text&gt;)&gt; in Licenta.RegisterView.body.getter : some"
+                  moduleName = "Licenta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fariseuteodor/Documents/facultate/Licenta/Licenta/View/Screens/Home/Login/RegisterView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "10D613BB-5D13-449F-A0E4-E47B1670A8B1 - 796a2931483065b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #4 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(Licenta.ValidatedField, Licenta.ValidatedField, Licenta.ValidatedField, SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.lineLimit(Swift.Optional&lt;Swift.Int&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in Licenta.RegisterView.body.getter : some"
+                  moduleName = "Licenta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fariseuteodor/Documents/facultate/Licenta/Licenta/View/Screens/Home/Login/RegisterView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "10D613BB-5D13-449F-A0E4-E47B1670A8B1 - 796a293148306596"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #4 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(Licenta.ValidatedField, Licenta.ValidatedField, Licenta.ValidatedField, SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.lineLimit(Swift.Optional&lt;Swift.Int&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in Licenta.RegisterView.body.getter : some"
+                  moduleName = "Licenta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fariseuteodor/Documents/facultate/Licenta/Licenta/View/Screens/Home/Login/RegisterView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "168">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4F46CBD3-2F33-438A-904A-B53CFBB7D5EA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Licenta/Firebase/Database.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "getRecords(from:having:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4632EF78-43E2-4F09-BE2E-DFD9E4456C4B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Licenta/View/Screens/EditImage/OptionsHeader.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "4632EF78-43E2-4F09-BE2E-DFD9E4456C4B - 77ccb25994e65af2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #4 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0, Swift.Optional&lt;SwiftUI.Button&lt;SwiftUI.Label&lt;SwiftUI.Text, SwiftUI.Image&gt;&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.onReceive&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Combine.Publisher, &#x3c4;_1_0.Failure == Swift.Never&gt;(_: &#x3c4;_1_0, perform: (&#x3c4;_1_0.Output) -&gt; ()) -&gt; some&gt;&gt;.0, SwiftUI.Spacer, SwiftUI.Menu&lt;&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0, Swift.Optional&lt;SwiftUI.Button&lt;SwiftUI.Label&lt;SwiftUI.Text, SwiftUI.Image&gt;&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;&gt;)&gt; in Licenta.OptionsHeader.body.getter : some"
+                  moduleName = "Licenta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fariseuteodor/Documents/facultate/Licenta/Licenta/View/Screens/EditImage/OptionsHeader.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "4632EF78-43E2-4F09-BE2E-DFD9E4456C4B - 3b271a6cdabc4749"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #4 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0, Swift.Optional&lt;SwiftUI.Button&lt;SwiftUI.Label&lt;SwiftUI.Text, SwiftUI.Image&gt;&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.onReceive&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Combine.Publisher, &#x3c4;_1_0.Failure == Swift.Never&gt;(_: &#x3c4;_1_0, perform: (&#x3c4;_1_0.Output) -&gt; ()) -&gt; some&gt;&gt;.0, SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in Licenta.OptionsHeader.body.getter : some"
+                  moduleName = "Licenta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fariseuteodor/Documents/facultate/Licenta/Licenta/View/Screens/EditImage/OptionsHeader.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BEC4FEBD-94F6-4BA2-9CC0-645ACF033D38"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Licenta/ViewModel/FilterGroups/VisionModelGroup.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "init(with:for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BEC4FEBD-94F6-4BA2-9CC0-645ACF033D38 - 4db3a7f14b9a820e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Licenta.VisionModelGroup.__allocating_init(with: Swift.Optional&lt;__C.CGImageRef&gt;, for: Swift.Optional&lt;__C.UIImage&gt;) -&gt; Licenta.VisionModelGroup"
+                  moduleName = "Licenta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fariseuteodor/Documents/facultate/Licenta/Licenta/ViewModel/FilterGroups/VisionModelGroup.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "BEC4FEBD-94F6-4BA2-9CC0-645ACF033D38 - 4db3a7f14b9a820e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Licenta.VisionModelGroup.__allocating_init(with: Swift.Optional&lt;__C.CGImageRef&gt;, for: Swift.Optional&lt;__C.UIImage&gt;) -&gt; Licenta.VisionModelGroup"
+                  moduleName = "Licenta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fariseuteodor/Documents/facultate/Licenta/Licenta/ViewModel/FilterGroups/VisionModelGroup.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "212">
+               </Location>
+               <Location
+                  uuid = "BEC4FEBD-94F6-4BA2-9CC0-645ACF033D38 - 4db3a7f14b9a820e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Licenta.VisionModelGroup.__allocating_init(with: Swift.Optional&lt;__C.CGImageRef&gt;, for: Swift.Optional&lt;__C.UIImage&gt;) -&gt; Licenta.VisionModelGroup"
+                  moduleName = "Licenta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fariseuteodor/Documents/facultate/Licenta/Licenta/ViewModel/FilterGroups/VisionModelGroup.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "284">
+               </Location>
+               <Location
+                  uuid = "BEC4FEBD-94F6-4BA2-9CC0-645ACF033D38 - 4db3a7f14b9a820e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Licenta.VisionModelGroup.__allocating_init(with: Swift.Optional&lt;__C.CGImageRef&gt;, for: Swift.Optional&lt;__C.UIImage&gt;) -&gt; Licenta.VisionModelGroup"
+                  moduleName = "Licenta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fariseuteodor/Documents/facultate/Licenta/Licenta/ViewModel/FilterGroups/VisionModelGroup.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F9432952-926C-44D8-A238-BC41612AC835"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Licenta/ViewModel/EditAnnotationsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "updateSegmentationMap()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F9432952-926C-44D8-A238-BC41612AC835 - c04549d35cd475d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Licenta.Line) -&gt; () in Licenta.EditAnnotationsViewModel.updateSegmentationMap() -&gt; Swift.Optional&lt;__C.CGImageRef&gt;"
+                  moduleName = "Licenta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fariseuteodor/Documents/facultate/Licenta/Licenta/ViewModel/EditAnnotationsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "1024">
+               </Location>
+               <Location
+                  uuid = "F9432952-926C-44D8-A238-BC41612AC835 - c04549d35cd475d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Licenta.Line) -&gt; () in Licenta.EditAnnotationsViewModel.updateSegmentationMap() -&gt; Swift.Optional&lt;__C.CGImageRef&gt;"
+                  moduleName = "Licenta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fariseuteodor/Documents/facultate/Licenta/Licenta/ViewModel/EditAnnotationsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "1004">
+               </Location>
+               <Location
+                  uuid = "F9432952-926C-44D8-A238-BC41612AC835 - c04549d35cd475d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Licenta.Line) -&gt; () in Licenta.EditAnnotationsViewModel.updateSegmentationMap() -&gt; Swift.Optional&lt;__C.CGImageRef&gt;"
+                  moduleName = "Licenta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fariseuteodor/Documents/facultate/Licenta/Licenta/ViewModel/EditAnnotationsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "1012">
+               </Location>
+               <Location
+                  uuid = "F9432952-926C-44D8-A238-BC41612AC835 - c04549d35cd475d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Licenta.Line) -&gt; () in Licenta.EditAnnotationsViewModel.updateSegmentationMap() -&gt; Swift.Optional&lt;__C.CGImageRef&gt;"
+                  moduleName = "Licenta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fariseuteodor/Documents/facultate/Licenta/Licenta/ViewModel/EditAnnotationsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "984">
+               </Location>
+               <Location
+                  uuid = "F9432952-926C-44D8-A238-BC41612AC835 - c04549d35cd475d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Licenta.Line) -&gt; () in Licenta.EditAnnotationsViewModel.updateSegmentationMap() -&gt; Swift.Optional&lt;__C.CGImageRef&gt;"
+                  moduleName = "Licenta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fariseuteodor/Documents/facultate/Licenta/Licenta/ViewModel/EditAnnotationsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "1008">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6F40047A-7320-410C-9265-B0854D7851E1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Licenta/ViewModel/FilterViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "170"
+            endingLineNumber = "170"
+            landmarkName = "saveImageToCloud()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "172E5CC8-498B-4F0F-A480-7B7EE9416227"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Licenta/Foundation/UIImage+getScale.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "upload(to:on:fileExtension:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "172E5CC8-498B-4F0F-A480-7B7EE9416227 - 74dd994c691bb1d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__C.UIImage.upload(to: Swift.String, on: FirebaseStorage.StorageReference, fileExtension: Swift.String) -&gt; FirebaseStorage.StorageUploadTask"
+                  moduleName = "Licenta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fariseuteodor/Documents/facultate/Licenta/Licenta/Foundation/UIImage+getScale.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "972">
+               </Location>
+               <Location
+                  uuid = "172E5CC8-498B-4F0F-A480-7B7EE9416227 - 5d7c651f5210ac05"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;FirebaseStorage.StorageMetadata&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in __C.UIImage.upload(to: Swift.String, on: FirebaseStorage.StorageReference, fileExtension: Swift.String) -&gt; FirebaseStorage.StorageUploadTask"
+                  moduleName = "Licenta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fariseuteodor/Documents/facultate/Licenta/Licenta/Foundation/UIImage+getScale.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "172E5CC8-498B-4F0F-A480-7B7EE9416227 - 74dd994c691bb16b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__C.UIImage.upload(to: Swift.String, on: FirebaseStorage.StorageReference, fileExtension: Swift.String) -&gt; FirebaseStorage.StorageUploadTask"
+                  moduleName = "Licenta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fariseuteodor/Documents/facultate/Licenta/Licenta/Foundation/UIImage+getScale.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "972">
+               </Location>
+               <Location
+                  uuid = "172E5CC8-498B-4F0F-A480-7B7EE9416227 - 5d7c651f5210acfa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;FirebaseStorage.StorageMetadata&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in __C.UIImage.upload(to: Swift.String, on: FirebaseStorage.StorageReference, fileExtension: Swift.String) -&gt; FirebaseStorage.StorageUploadTask"
+                  moduleName = "Licenta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fariseuteodor/Documents/facultate/Licenta/Licenta/Foundation/UIImage+getScale.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
